@@ -1,0 +1,32 @@
+Heap as an ArrayList:-
+Current system time (cycles): 35682
+Total number of jobs executed: 1000 jobs
+Average process waiting time: 19135.879 cycles
+Total number of priority changes: 1189
+Actual system time needed to execute all jobs: 315.6797
+
+
+Priority Queue as an LinkedList:-
+Current system time (cycles): 35682
+Total number of jobs executed: 1000 jobs
+Average process waiting time: 18463.003 cycles
+Total number of priority changes: 1189
+Actual system time needed to execute all jobs: 182.554399
+
+
+Heap as an ArrayList:-
+Current system time (cycles): 353495
+Total number of jobs executed: 10000 jobs
+Average process waiting time: 188926.7513 cycles
+Total number of priority changes: 11783
+Actual system time needed to execute all jobs: 1603.0696
+
+
+Priority Queue as an LinkedList:-
+Current system time (cycles): 353495
+Total number of jobs executed: 10000 jobs
+Average process waiting time: 182040.0455 cycles
+Total number of priority changes: 11783
+Actual system time needed to execute all jobs: 2548.7397
+
+
